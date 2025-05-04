@@ -1,1 +1,0 @@
-# BluePulse_Frontend
